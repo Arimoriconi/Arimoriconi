@@ -1,10 +1,10 @@
 # Hola, soy Ariana Moriconi 👋
 
-Soy una desarrolladora frontend con dos años de experiencia en el campo digital.
+Soy una desarrolladora frontend con tres años de experiencia en el campo digital.
 ## 
 - 🌍 Vivo en Buenos Aires, Argentina.
-- 🎂 Tengo 24 años.
-- 👩‍💻 Actualmente soy frontend en IT Rock.
+- 🎂 Tengo 25 años.
+- 👩‍💻 Actualmente soy desarrolladora frontend en IT Rock.
 
  ## Skills
 
